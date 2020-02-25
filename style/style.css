@@ -1,0 +1,54 @@
+.container{
+    width: 70%;
+    background-color: #ffb8c9;
+    padding: 0;
+    height: 100%;
+}
+
+.title h1{
+    padding-top: 10%;
+    text-align: center;
+}
+
+nav{
+    margin: 0;
+}
+
+body{
+    background-color: #ffd1dc;
+}
+
+.bg-pink{
+    background-color: #ff85a2;
+}
+
+.footer{
+    text-align: center;
+    width: 100%;
+    position: fixed; left: 0; bottom: 0;
+    padding-bottom: 10px;
+}
+
+.footer small{
+    font-weight: bold !important;
+}
+
+.table-pink{
+    background-color: #ff85a2;
+}
+
+.table thead th {
+    border-bottom: none;
+}
+
+.table td, .table th{
+    border-top: 1px solid #000;
+}
+
+#botao_indica{
+    text-align: center;
+}
+
+#nome, #artista, #indicacao{
+    width: 80%;
+}
