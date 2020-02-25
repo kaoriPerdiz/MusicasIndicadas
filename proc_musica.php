@@ -19,9 +19,6 @@ switch ($acao){
         $result = $conn->query($sql);
         $tela = "ouvi.php";
     break;
-
-    case "3": //deletar?
-    break;
 }
 header("Location: $tela");
 ?>
